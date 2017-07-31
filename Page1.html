@@ -97,7 +97,7 @@ Below we see the visualizaion of home inspection score by county in the state of
                         var value = d.properties.rank;
                         if (value) {
                             //If value exists…
-                            scaled_val = (52-value)*255/52;
+                            scaled_val = (100-value)*150/100;
                             return d3.rgb(0, scaled_val, 0);
                         } else {
                             //If value is undefined…
@@ -125,7 +125,7 @@ Below we see the visualizaion of home inspection score by county in the state of
     });
   // add legend based on http://d3-legend.susielu.com/
     var linear = d3.scaleLinear()
-    .domain([1,52])
+    .domain([0,100])
     .range(["rgb(0, 150, 0)", "rgb(0, 0, 0)"]);
   var svg = d3.select("svg");
   svg.append("g")
