@@ -77,7 +77,7 @@ Below we see the visualizaion of home inspection score by county in the state of
                 // console.log(data[i]);
                 //Find the corresponding county inside the GeoJSON
                 for (var j = 0; j < json.features.length; j++) {
-                    var jsonState = json.features[j].properties.name;
+                    var jsonCounty = json.features[j].properties.name;
                     if (dataCounty == jsonCounty) {
                         //Copy the data value into the JSON
                         json.features[j].properties.rank = dataRank;
