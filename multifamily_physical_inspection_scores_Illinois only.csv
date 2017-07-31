@@ -1,0 +1,312 @@
+INSPECTION_ID,PROPERTY_ID,PROPERTY_NAME,ADDRESS,CITY,CBSA_NAME,CBSA_CODE,COUNTY_NAME,COUNTY_CODE,STATE_NAME,STATE_CODE,ZIP,LATITUDE,LONGITUDE,LOCATION_QUALITY,INSPECTION_SCORE,INSPECTION_DATE
+500091,800006022,KIMBARK RESIDENTIAL,1351 E 62nd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.782207,-87.592640,R,78,4/1/2013 9:32
+500139,800209831,Hearts United,654 E 43rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.816948,-87.609957,R,54,4/9/2013 9:52
+500174,800220966,Hilliard Homes Phase II,2030 South State/ 30 West Cermak,CHICAGO,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60616,41.848900,-87.623600,T,66,2/21/2013 9:16
+500214,800006372,T.E.BROWN APTS,3601 S Wells St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60609,41.828218,-87.632424,R,80,7/30/2013 9:57
+500902,800006449,West Town Senior  Housing/AKA/ Linden House/AKA/Ed,2315 W Le Moyne St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.908345,-87.685560,R,90,4/25/2013 9:57
+500908,800005770,CAL-MET VILLAGE,4101 S Calumet Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.820178,-87.618212,R,60,9/9/2013 9:06
+500956,800040093,850 ARGYLE PLACE APTS.,850 W Argyle St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.973465,-87.652396,R,84,8/9/2013 9:07
+500964,800005700,ANATHOTH GARDENS,34 N Keeler Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.881096,-87.730772,R,70,3/7/2013 9:40
+501011,800005997,IKE SIMS VILLAGE,3333 W Maypole Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.883433,-87.709262,R,88,9/5/2013 9:36
+501090,800224494,Victory Centre of Galewood SLF,2370 N Newcastle Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60707,41.923255,-87.797238,R,66,12/2/2013 9:15
+501194,800006520,36TH & MICHIGAN TOWNHOUSES,60 E 36th Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.828896,-87.624994,R,81,9/20/2013 9:00
+501246,800006363,Stone Terrace Apartments,8440 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60620,41.740277,-87.639480,R,89,3/24/2014 9:39
+501306,800006431,VAN BUREN PARK APARTMENTS,2045 W Jackson Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60612,41.877371,-87.678396,R,89,4/24/2013 9:30
+501467,800006522,EASTWOOD TOWERS,4640 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.966575,-87.655048,R,82,5/15/2013 9:00
+501477,800221041,Homan Square Apartments Phase IV,3607 W Polk St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.870685,-87.715733,R,82,6/10/2013 9:35
+501482,800005942,Oasis Senior Living,10860 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60643,41.696434,-87.660569,R,81,10/25/2013 8:07
+501497,800006087,LOGAN VISTAS,2600 N Kedzie Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.928823,-87.707801,R,86,9/27/2013 9:47
+501498,800006110,CLIFTON MAGNOLIA APARTMENTS,4416 N Clifton Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.962247,-87.658394,R,81,12/26/2013 9:17
+501550,800005815,CONTINENTAL PLAZA APARTMENTS,1330 W 76th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60620,41.756138,-87.657116,R,75,9/12/2013 9:48
+501581,800040042,JORGE HERNANDEZ,1615 N Kildare Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60639,41.910372,-87.733448,R,78,6/26/2013 9:28
+501582,800040097,The Bryn Mawr &The Belle Shore,5550 N Kenmore Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.982709,-87.656826,R,59,6/25/2013 9:02
+501644,800221027,Lakeside Square Apartments,920 W Lakeside Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.968333,-87.653253,R,96,6/27/2013 8:55
+501748,800005791,Chinatown Elderly Apartments,300 W 23rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60616,41.851131,-87.634781,R,72,4/11/2013 9:27
+501789,800006407,MARSHALL FIELD GARDEN APT.,1448 N Sedgwick St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.908610,-87.638731,R,80,10/28/2013 9:32
+501792,800006311,SCOTLAND YARDS I,4215 N Broadway St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.958796,-87.652980,R,69,5/22/2013 9:23
+501793,800006312,SCOTLAND YARD II,4247 N Broadway St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.959306,-87.653298,R,62,5/17/2013 9:20
+501794,800006322,SHERIDAN GUNNISON APARTMENTS,4827 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.969706,-87.654626,R,69,4/12/2013 9:02
+501821,800040078,VICTORY APARTMENTS,1700 N Humboldt Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.912482,-87.702497,R,69,4/22/2013 9:02
+501838,800220322,Riverside Village,13215 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60827,41.655138,-87.617055,R,73,2/27/2014 9:22
+501861,800006473,WEST TOWN HOUSING PHASE II,2550 W North Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.910497,-87.691240,R,80,8/22/2013 8:53
+501862,800005814,CONGRESSMAN GEORGE W. COLLINS APTS.,1401 S Blue Island Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60608,41.863483,-87.656136,R,64,6/6/2013 9:12
+501863,800005816,CORCORAN PLACE APARTMENTS,345 N Austin Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.887238,-87.774682,R,98,4/17/2013 9:47
+501864,800006213,PARK SHORE EAST COOPERATIVE,1561 E 61st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.783680,-87.586942,R,80,3/5/2014 9:47
+501920,800005826,NORTH ASHLAND REHAB,1614 W Wilson Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.965420,-87.669953,R,83,3/20/2013 9:59
+501924,800235166,Pangea Auburn Gresham Apartments Phase I,1415 W 80th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60620,41.748421,-87.659412,R,72,12/4/2013 9:09
+501982,800005716,Shoreham Apartments,3318 N Lake Shore Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.942618,-87.640321,R,95,7/18/2013 9:05
+502014,800005933,GILL PARK COOPERATIVE,810 W Grace St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.951043,-87.649748,R,89,3/27/2014 9:02
+502099,800040073,THE WHITMORE APTS,130 N Parkside Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.883020,-87.766777,R,72,11/15/2013 9:11
+502100,800040096,Neighborhood Commons Cooperative,1600 N Vine St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.912709,-87.644594,R,70,3/5/2013 9:08
+502105,800210777,46th & Vincennes Apartments,444 E 46th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.811394,-87.614725,R,81,2/22/2013 9:14
+502125,800213405,Montclare Senior Residences,6650 W Belden Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60707,41.921372,-87.791924,R,86,12/10/2013 9:02
+502169,800039864,WILLARD SQUARE APARTMENTS,4907 S Saint Lawrence Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.805696,-87.611136,R,87,3/3/2014 8:31
+502180,800212450,Lathrop Elderly,2717 N Leavitt St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.930872,-87.680569,R,75,6/12/2013 9:32
+502192,800220195,Pioneer Gardens Senior Living Facility,3800 S Dr Martin L King Jr Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.825638,-87.617504,R,71,12/27/2013 9:10
+502197,800216944,Indiana Manor Townhomes,4324 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.816017,-87.621596,R,81,12/18/2013 9:10
+502217,800006373,T.K. Lawless Gardens II,3510 S Rhodes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.830793,-87.614670,R,86,10/22/2013 9:11
+502234,800218892,Madden/Wells Phase 1A,3859 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.824528,-87.612209,R,85,12/11/2013 9:18
+502253,800006007,JACKSON PARK TERRACE,6040 S Harper Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.784993,-87.588377,R,68,3/6/2014 9:17
+502258,800006374,T.K. LAWLESS GARDENS I,3550 S Rhodes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.829667,-87.614663,R,81,10/21/2013 8:55
+502288,800225499,Hollywood House Apartments,5700 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60660,41.985633,-87.655462,R,43,2/19/2013 10:28
+502292,800216705,Lake Park Crescent Apartments,1061 E 41st Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.819473,-87.600800,R,68,11/12/2013 9:24
+502403,800218472,Harold Washington Unity Coop,2550 W North Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.910497,-87.691240,R,86,1/10/2014 8:13
+502416,800211050,Cottage View Terrace Apartment,4829 S Cottage Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.807202,-87.606292,R,63,9/10/2013 9:19
+502417,800211064,St. Edmund's Manor Apartments,5947 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.786463,-87.620405,R,75,3/29/2013 9:16
+502449,800006335,SOUTH APTS,6001 S Vernon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.785561,-87.614231,R,78,10/24/2013 10:02
+502474,800212453,Harrison Courts,2910 W Harrison St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60612,41.873950,-87.698836,R,88,2/20/2013 9:19
+502475,800212455,Loomis Courts,1314 W 15th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60608,41.861746,-87.659331,R,97,12/13/2013 9:12
+502494,800225556,St. Edmunds Commons,6253 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.780863,-87.621897,R,80,10/22/2013 9:30
+502510,800006414,TRINITY ACRES,3939 S Calumet Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.823154,-87.618293,R,61,6/18/2013 8:59
+502581,800220718,Liberty Square Apartments (4th Pre-ap),711 S Independence Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.872206,-87.719474,R,68,7/31/2013 9:08
+502582,800212618,The Quincy Apartments,654 E 43rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.816948,-87.609957,R,67,9/25/2013 9:29
+502583,800216164,Hearts United III,654 E 43rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.816948,-87.609957,R,58,5/2/2013 9:36
+502785,800235295,1130 South Michigan,1130 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60605,41.868949,-87.624428,R,54,12/19/2013 9:06
+502981,800234657,450 Melrose,450 W Melrose St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941380,-87.640800,R,55,9/13/2013 13:18
+503030,800234441,1111 North Dearborn,1111 N Dearborn St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.902153,-87.629688,R,45,5/8/2013 9:50
+503032,800234708,455 Wellington,455 W Wellington Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.936392,-87.640860,R,42,8/28/2013 10:18
+503100,800234693,544 Melrose,544 W Melrose St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941340,-87.643107,R,49,9/17/2013 10:28
+503191,800006170,North Washington Park Manor,550 E 50th Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.802933,-87.611890,R,94,7/2/2013 10:29
+503379,800006331,SILENT COOPERATIVE APARTMENTS,2500 W Belmont Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60618,41.939611,-87.690594,R,77,3/27/2013 11:18
+503532,800005695,ALPHA TOWERS,936 E 47th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.809765,-87.603118,R,76,3/4/2013 9:05
+503678,800067762,KENMORE PLAZA,5225 N Kenmore Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.976815,-87.656214,R,74,1/31/2013 9:32
+503755,800219171,Morningside Courts,1250 W Morse Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.008150,-87.663906,R,84,9/30/2014 10:04
+504366,800232839,Crandon Apartments,6909 S Crandon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.769756,-87.569669,R,86,4/2/2014 9:34
+504413,800212749,NORTH TOWN VILLAGE,1313 N Halsted St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60642,41.905353,-87.647888,R,94,4/25/2013 10:02
+504451,800006234,PETERSON PLAZA,5969 N Ravenswood Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60660,41.990214,-87.674463,R,52,12/23/2013 9:08
+504616,800067755,Evergreen Tower II,1343 N Cleveland Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.907110,-87.640656,R,60,1/3/2014 9:14
+504975,800224489,Clara's Village,2115 W 63rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60636,41.779114,-87.677031,R,93,4/3/2013 9:39
+504976,800224388,Coppin House,333 E 55th Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.793751,-87.618070,R,83,3/22/2013 8:58
+505122,800219397,Eden Supportive Living,940 W Gordon Ter,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.957536,-87.654026,R,37,10/23/2013 9:09
+505166,800222397,Victory Centre of Roseland,10450 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60628,41.704099,-87.620854,R,91,3/15/2013 9:42
+505712,800005849,DIVISION STREET REHAB.,2815 W Division St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.902776,-87.697395,R,45,6/25/2013 10:20
+505768,800006526,65TH STREET APARTMENTS,6400 S Maryland Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.778585,-87.604837,R,62,7/15/2013 10:07
+505775,800024128,Transformation Housing III,7000 S Parnell Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.767089,-87.638631,R,32,6/28/2013 11:22
+505796,800005855,Drexel Preservation/Drexel Ct & Lake Park East,837 E 47th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.809411,-87.605796,R,72,5/29/2013 10:44
+507765,800234683,2630 Hampden,2630 N Hampden Ct,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.929928,-87.641290,R,45,8/6/2013 10:17
+507766,800234684,537 Melrose,537 W Melrose St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941015,-87.642917,R,55,8/22/2013 10:40
+507767,800234659,536 Addison,536 W Addison St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.948551,-87.644261,R,48,8/15/2013 9:36
+507768,800234919,350 Oakdale Apartments,350 W Oakdale Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.935791,-87.638732,R,52,6/11/2013 9:18
+507771,800234710,3510 Pine Grove,3510 N Pine Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.946291,-87.644767,R,56,9/9/2013 10:30
+507781,800006006,ISLAND TERRACE APTS,6430 S Stony Island Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.778185,-87.586613,R,85,6/7/2013 8:56
+507809,800006256,Prete House Apartments,5801 N PULASKI AVE,CHICAGO,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60646,41.995300,-87.756400,T,95,9/30/2013 9:10
+507850,800040225,INDIAN TRAILS APARTMENTS,221 E 121st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60628,41.674127,-87.616596,R,59,8/21/2013 10:19
+507859,800006172,Northeastwood Shores,850 W Eastwood Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.966259,-87.651516,R,94,9/24/2013 9:55
+507906,800006086,LOGAN & KEDZIE APTS,3142 W Logan Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.928805,-87.705203,R,96,2/13/2014 13:52
+507934,800006096,LORINGTON APTS,2630 N Spaulding Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.929280,-87.711093,R,87,2/14/2014 13:23
+508060,800006371,Swartzberg House,3101 W Touhy Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60645,42.011773,-87.706807,R,87,2/14/2014 8:59
+508106,800006173,NORTHPOINT,7717 N Paulina St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.021394,-87.672846,R,85,9/16/2013 12:29
+508188,800040597,712 W DIVERSEY APTS,712 W Diversey Pkwy,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.932952,-87.647110,R,64,2/6/2014 10:34
+508234,800005902,FARWELL-JARVIS APTS,1345 W Jarvis Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.015954,-87.665924,R,64,8/27/2013 10:25
+508408,800006518,325 N AUSTIN APTS,325 N Austin Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.886656,-87.774652,R,93,2/10/2014 12:27
+508461,800005893,EVERGREEN TERRACE,1301 N Cleveland Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.905771,-87.640629,R,71,9/17/2013 10:07
+508633,800040446,Woolman-Washington Cooperative Apartments,2043 W Pierce Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.909184,-87.679084,R,69,11/19/2013 10:04
+508811,800006487,Willa Rawls Manor,4120 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.819811,-87.621693,R,83,9/10/2013 10:50
+509154,800005885,Elm Street Plaza,1130 N Dearborn St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.902629,-87.630149,R,81,9/30/2013 14:13
+509179,800005786,CHASE STREET APTS,1401 W Chase Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.013791,-87.666397,R,70,7/30/2013 9:33
+509222,800006454,Winthrop Towers,4848 N Winthrop Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.970259,-87.657850,R,82,9/25/2013 12:48
+509243,800006353,West Byron Place,2815 W Byron St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60618,41.951994,-87.698783,R,93,8/22/2013 9:48
+509321,800006071,SEVENTY THIRD AND DOBSON,1108 E 73rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.762476,-87.597535,R,93,9/18/2013 9:39
+509342,800040490,DAUPHIN AVE APTS,9200 S Dauphin Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.727523,-87.603183,R,93,8/29/2013 10:03
+509396,800005993,HYDE PARK APARTMENTS,5330 S Harper Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.799099,-87.589297,R,93,9/12/2013 10:25
+509669,800006445,Walsh Park,1734 N Paulina St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.913376,-87.670428,R,99,2/13/2014 8:54
+509708,800005810,COMMONWEALTH APTS,2757 N Pine Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.931724,-87.640985,R,71,2/12/2014 9:02
+509715,800006030,Lake Vista Apartments,1500 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60605,41.862050,-87.622745,R,73,9/23/2013 11:13
+509731,800005931,Germano-Millgate Apartments,8802 S Burley Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60617,41.735585,-87.545986,R,84,9/23/2013 10:01
+509989,800005725,Belmont Harbor Towers,510 W Belmont Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.940258,-87.642779,R,72,9/9/2013 10:03
+510006,800006379,The Parkways,6718 S East End Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.772297,-87.583850,4,80,9/26/2013 10:19
+510039,800005857,Drexel Towers Apartments,4825 S Drexel Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.807317,-87.603636,R,67,2/11/2014 11:28
+510052,800006401,THORNDALE MANOR,1020 W Thorndale Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60660,41.990216,-87.655245,R,87,2/18/2014 9:39
+510110,800006107,Genesis Group 5800 Inc,5800 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.789260,-87.622527,R,88,9/20/2013 9:59
+510181,800006245,PIONEER VILLAGE,340 E 38th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.825799,-87.617756,R,89,9/12/2013 9:44
+510246,800232769,Woodlawn Center South,6230 S Cottage Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.781666,-87.606180,R,94,8/8/2013 10:12
+511786,800005736,BOOTH MANOR,1500 W Madison St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60607,41.881688,-87.665187,R,75,12/16/2013 9:46
+511917,800067932,Matthew Manor II,251 N Albany Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60612,41.885681,-87.703566,R,96,11/15/2013 10:02
+512129,800236775,WOODLAWN CENTER NORTH (PRESERVATION),6129 S Cottage Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.783507,-87.605789,R,91,12/18/2013 10:03
+512171,800067952,St. Ailbe Apts. II,9240 S Kimbark Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.726311,-87.592684,R,97,12/3/2013 10:37
+512173,800222721,TRC SENIOR VILLAGE 1,346 E 53rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.798624,-87.617438,R,90,11/21/2013 9:59
+512197,800068329,"HABILITATIVE SYSTEMS, INC.",4623 W Gladys Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.875810,-87.741576,R,75,11/18/2013 10:07
+512210,800068351,St. Ailbe 811 Housing,9101 S Harper Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.729551,-87.586559,R,89,12/3/2013 16:01
+512220,800006299,Self-Help Home for the Aged,908 W Argyle St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.973456,-87.653095,R,72,6/25/2014 9:41
+512327,800211351,Beth Anne Extended Living,1143 N Lavergne Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60651,41.901855,-87.750628,R,98,12/9/2013 10:11
+512367,800236776,Renaissance Preservation,6153 S Greenwood Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.783033,-87.599276,R,95,12/3/2013 9:54
+512491,800005947,Orchard Place of Morgan Park/Beverly,11230 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60643,41.689413,-87.665282,R,95,11/22/2013 9:55
+512516,800006175,NORTHWEST CHICAGO GROUP HOMES/aka/Hutchinson House,3348 W Hutchinson St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60618,41.958608,-87.711941,R,84,11/26/2013 10:00
+512631,800006015,Kedzie Apartments,1500 N Kedzie Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60651,41.908294,-87.707176,R,81,11/20/2013 9:28
+512752,800006384,TABOR LUTHERAN SENIOR HOUSING,7429 S Kingston Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.759852,-87.562927,R,86,12/17/2013 9:55
+512938,800211354,Clair House,1350 S Harding Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60623,41.862919,-87.724058,R,69,11/19/2013 10:00
+513170,800006145,MIDWAY PLAISANCE SENIOR APARTMENTS,731 E 60th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.785662,-87.607780,R,60,12/12/2013 9:43
+513277,800067934,Margaret Ford Manor,4500 S Wabash Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.813078,-87.624768,R,89,1/9/2014 10:03
+513327,800112174,Emil Jones Jr. Senior Housing Center,19 E 110th Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60628,41.693786,-87.622426,R,80,11/15/2013 9:52
+513511,800068341,VICTORIA JENNINGS RESIDENCES,624 W 61st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.783642,-87.640519,R,62,11/12/2013 10:43
+513512,800005776,TOLTON MANOR,6345 S Stewart Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.778834,-87.634805,R,99,11/14/2013 10:14
+513550,800005898,FRED WOODS HOUSE,4631 N Beacon St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.965907,-87.663719,R,55,1/22/2014 10:08
+513675,800213057,Sawyer Gardens,1215 S Sawyer Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60623,41.865911,-87.706643,R,80,11/20/2013 9:50
+513686,800067935,Elois McCoy Village Apartments,4650 W Van Buren St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.875245,-87.741324,R,88,12/16/2013 10:24
+513735,800223448,Jarrell/Lawndale Restoration,3324 W Douglas Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60623,41.863080,-87.709115,R,72,12/5/2013 9:13
+513850,800211853,St. Ailbe Apartments,1244 E 93rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.726035,-87.593332,R,88,12/2/2013 10:06
+513938,800000046,MATTHEW MANOR,271 N Albany Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60612,41.885986,-87.703574,R,85,11/21/2013 9:43
+513974,800006085,Humbolt Park Elderly/Plaza Taino,1111 N Francisco Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.901431,-87.699073,R,43,11/6/2013 10:30
+513986,800067949,St. Sabina Sr. Suites,1222 W 79th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60620,41.750642,-87.654663,R,94,11/5/2013 9:44
+514006,800068343,McKinley III,5000 W West End Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.883243,-87.750275,R,64,11/12/2013 9:21
+514084,800212941,Washington Park Elderly,5040 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.803154,-87.621262,R,86,10/21/2013 10:00
+514372,800006267,Racine Terrace,4409 N Racine Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.962065,-87.659352,R,74,2/19/2014 10:15
+514390,800006280,Lincoln Park Plaza,600 W Diversey Pkwy,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.933012,-87.644042,R,44,1/23/2014 10:17
+514494,800005705,ARMITAGE COMMONS,3720 W Armitage Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.917425,-87.719933,R,65,2/5/2014 9:57
+514592,800068316,Congress Apartments,418 S Karlov Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.875479,-87.728172,R,75,1/27/2014 10:00
+514661,800006349,Spring Grove Apartments,4554 S Drexel Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.812247,-87.604626,R,61,2/21/2014 10:27
+514736,800006404,CREGIER APARTMENTS,6928 S Cregier Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.769244,-87.581528,R,99,1/28/2014 15:36
+514759,800005771,Campbell Terrace,2061 N Campbell Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.919254,-87.688969,R,80,2/18/2014 10:00
+514792,800006338,CAMBRIDGE MANOR,2631 S Indiana Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60616,41.844820,-87.621898,R,67,1/22/2014 10:00
+514839,800005827,CRYSTAL COURTS,1122 N California Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.901747,-87.697064,R,65,2/6/2014 9:42
+514911,800068318,KEATING APARTMENTS,4358 S Keating Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60632,41.813873,-87.742298,R,78,1/27/2014 14:00
+514972,800006026,Lafayette Plaza Housing Cooperative,50 W 71st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.765670,-87.627645,R,31,1/29/2014 10:01
+515081,800068323,PRAIRIE HAVEN HOMES,301 W Marquette Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.772519,-87.632822,R,83,1/24/2014 9:50
+515261,800005797,Clarendon Courts Apts.,4500 N Clarendon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.963688,-87.650180,R,38,1/9/2014 9:59
+515343,800006398,CORNELL APARTMENTS,6757 S Cornell Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.772014,-87.584820,R,95,1/28/2014 12:26
+515536,800006422,URBANITE APARTMENTS,5441 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.795742,-87.622266,R,88,2/6/2014 13:58
+515589,800006456,South Wabash Apartments,5907 S Wabash Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.787239,-87.623685,R,73,2/19/2014 14:03
+515625,800006158,New Vista II,6915 S Crandon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.769645,-87.569666,R,45,1/16/2014 10:00
+515658,800006289,ROOSEVELT-HALSTED I aka BJ Wright Court Apts.,1330 S Morgan St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60608,41.864716,-87.651195,R,92,2/12/2014 11:33
+515661,800006400,CALUMET APARTMENTS,3650 S Calumet Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.828371,-87.618566,R,89,1/28/2014 8:49
+515703,800005995,Lawndale Apartments,3505 W 5th Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.876192,-87.713331,R,65,2/10/2014 10:03
+515716,800006223,Park View Apartments/ aka/Baptist Tower,5110 S King Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.801928,-87.616342,R,64,2/20/2014 10:06
+516194,800210990,1528 Morse Apartments,1528 W Morse Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.008068,-87.668484,R,85,12/9/2013 10:04
+516240,800218701,St. Edmunds Meadows,6253 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.780863,-87.621897,R,75,11/14/2013 9:35
+516262,800234945,Sheridan Apartments,1200 W Pratt Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.005711,-87.661572,R,41,11/22/2013 9:04
+516388,800234946,Ridge Avenue Apartments,6414 N Ridge Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,41.998134,-87.677157,R,41,12/16/2013 10:16
+516488,800005920,Grace Street Towers,635 W Grace St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.951991,-87.645867,R,83,8/19/2014 9:30
+516868,800218701,St. Edmunds Meadows,6100 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.783730,-87.622423,R,66,1/14/2015 10:13
+516909,800006225,PAUL G STEWART APTS III,401 E Bowen Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.819166,-87.616569,R,23,6/25/2014 9:05
+516911,800039863,PAUL G. STEWART PHASE V,410 E Bowen Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.819497,-87.616199,R,57,8/13/2014 9:07
+517139,800006528,6900-SOUTH-CRANDON,6900 S Crandon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.769897,-87.570111,R,93,10/30/2014 11:28
+517140,800005706,ARMITAGE HUMBOLDT APTS,3004 W Armitage Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.917612,-87.702646,R,86,8/28/2014 9:00
+517149,800236790,Transforming Housing II,4750 S Forrestville Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.808399,-87.612893,R,45,9/2/2014 9:25
+517277,800235245,Norwood Crossing,6016 N Nina Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60631,41.991035,-87.799946,R,36,9/15/2014 9:17
+517282,800040051,LAKESIDE TERRACES,7425 S South Shore Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.761994,-87.558301,R,92,1/20/2015 10:07
+517296,800236298,5550 S. Dorchester,5550 S Dorchester Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.793977,-87.591882,R,78,4/30/2014 9:10
+517299,800006143,MEDS APARTMENTS,60 E 36th Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.828896,-87.624994,R,96,12/22/2014 10:00
+517301,800236387,3130 N. Lake Shore Drive,3130 N Lake Shore Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.938639,-87.638017,R,54,12/3/2014 10:44
+517315,800005883,ELLIS LAKEVIEW APARTMENTS,4624 S Ellis Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.810620,-87.601927,R,83,11/26/2014 9:40
+517494,800236089,The Oaks,820 S Park Ter,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60605,41.871276,-87.629782,R,61,5/27/2014 10:11
+517680,800005788,CHATHAM PARK SOUTH COOPERATIVE,660 E 85th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.740400,-87.607866,R,90,8/6/2014 9:30
+517778,800006069,LAWNDALE TERRACE/PLAZA COURTS,3400 W Douglas Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60623,41.863070,-87.710468,R,94,10/22/2014 10:44
+517908,800006077,Liberty Commons,4835 S King Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.806870,-87.615995,R,97,7/11/2014 9:32
+518081,800040054,MERRILL COURT APTS,7201 S Merrill Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.764392,-87.572341,R,63,1/29/2014 10:13
+518837,800237433,441 West Barry,441 W Barry Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.937546,-87.641131,R,68,10/31/2014 11:09
+518852,800211926,Mayfield Care Center,5905 W Washington Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.881989,-87.772006,R,85,10/27/2014 15:20
+518870,800237492,1000 North LaSalle,1000 N La Salle Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.900565,-87.633133,R,63,12/17/2014 10:24
+518874,800237523,500 West Belmont,500 W Belmont Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.940258,-87.642626,R,76,11/5/2014 10:28
+518906,800005988,HUMBOLDT BUILDING,1704 N Humboldt Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.912532,-87.702498,R,81,12/16/2014 10:05
+518926,800219976,Jackson Park Supportive Living,1448 E 75th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60619,41.758877,-87.589260,R,69,12/18/2014 10:11
+519184,800040065,AUSTIN RENAISSANCE,5113 W Washington Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.881559,-87.753172,R,62,11/21/2014 9:19
+519314,800236652,2620 Lofts,2620 W Washington Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60612,41.883137,-87.691599,R,70,8/27/2014 10:02
+519402,800006324,SHERWAY TOWER APARTMENTS,4225 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.959830,-87.654451,R,79,4/29/2014 9:01
+519409,800234945,Sheridan Apartments,6800 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.005529,-87.661126,R,63,11/21/2014 10:32
+519577,800006506,"Greenwood Senior Living, LP",808 E 61st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.784210,-87.605516,R,75,7/28/2014 9:00
+519615,800005833,DARE,1616 E 55th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.795404,-87.586335,R,90,1/22/2015 9:55
+519769,800006125,"Martin Luther King, Jr. Plaza Apartments",3220 W Madison St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.881154,-87.706614,R,60,3/31/2014 9:14
+519922,800040055,PLAZA ON THE PARK,608 E 51st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.802347,-87.609938,R,74,11/12/2014 8:32
+520038,800006067,LAS MORADAS APARTMENTS,1307 N California Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.904933,-87.696683,R,88,12/18/2014 11:53
+520058,800006027,Lafayette Terrace Apartments,6950 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.768043,-87.626939,R,91,6/13/2014 9:03
+520139,800006420,UNIVERSAL CITY APARTMENTS,9510 S Constance Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60617,41.721363,-87.579219,R,75,12/9/2014 9:27
+520142,800006099,KING DRIVE APTS,4747 S King Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.808548,-87.616060,R,99,1/29/2015 10:10
+520193,800220195,Pioneer Gardens Senior Living Facility,3800 S Dr Martin L King Jr Dr,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.825638,-87.617504,R,92,12/29/2014 9:52
+520204,800006153,MOO GOONG TERRACE,4848 N Kedzie Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60625,41.969324,-87.708735,R,98,7/25/2014 9:04
+520283,800219005,Montclare Senior Residences Phase II,6640 W Belden Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60707,41.921373,-87.791887,R,72,10/28/2014 11:20
+520299,800006288,ROOSEVELT INDEPENDENCE,1301 S Independence Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60623,41.864389,-87.719254,R,80,10/21/2014 10:18
+520313,800210319,Archer Courts Apartments,2242 S Princeton Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60616,41.851547,-87.634993,R,88,11/14/2014 9:16
+520343,800005895,Evergreen Sedgwick Apts,1343 N Cleveland Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.907110,-87.640656,R,92,5/29/2014 10:39
+520395,800040062,H.I.C.A. REDEVELOPMENT,5042 W Washington Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60644,41.881915,-87.751237,R,94,9/19/2014 9:32
+520563,800040045,KENWOOD APTS,4724-36 S ELLIS   4710-4718 S Woodlawn,CHICAGO,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.801400,-87.601500,T,99,12/8/2014 10:31
+520686,800234946,Ridge Avenue Apartments,6414 N Ridge Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,41.998134,-87.677157,R,77,12/23/2014 10:09
+520717,800024128,Transformation Housing III,7000 S Parnell Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.767089,-87.638631,R,74,1/31/2014 10:32
+520721,800006505,WOODLAWN REDEVELOPMENT NO. 2,6520 S Ingleside Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.776423,-87.602410,R,67,1/23/2014 10:14
+520742,800005849,DIVISION STREET REHAB.,2815 W Division St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60622,41.902776,-87.697395,R,63,3/4/2014 10:23
+520783,800005700,ANATHOTH GARDENS,34 N Keeler Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.881096,-87.730772,R,89,5/1/2014 9:14
+520784,800005770,CAL-MET VILLAGE,4101 S Calumet Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.820178,-87.618212,R,72,11/14/2014 9:05
+520996,800067762,KENMORE PLAZA,5225 N Kenmore Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.976815,-87.656214,R,78,3/25/2014 9:13
+521014,800005695,ALPHA TOWERS,936 E 47th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.809765,-87.603118,R,81,5/8/2014 9:10
+521015,800006331,SILENT COOPERATIVE APARTMENTS,2500 W Belmont Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60618,41.939611,-87.690594,R,94,3/20/2014 10:14
+521113,800006022,KIMBARK RESIDENTIAL,1351 E 62nd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.782207,-87.592640,R,78,5/7/2014 9:05
+521160,800006311,SCOTLAND YARDS I,4215 N Broadway St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.958796,-87.652980,R,72,6/24/2014 9:12
+521181,800006312,SCOTLAND YARD II,4247 N Broadway St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.959306,-87.653298,R,80,5/21/2014 9:34
+521184,800219397,Eden Supportive Living,940 W Gordon Ter,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.957536,-87.654026,R,39,9/4/2014 9:03
+521221,800005855,Drexel Preservation/Drexel Ct & Lake Park East,837 E 47th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.809411,-87.605796,R,57,8/1/2014 9:00
+521225,800006335,SOUTH APTS,6853 S East End Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60649,41.770593,-87.583779,4,86,10/1/2014 10:00
+521228,800006414,TRINITY ACRES,3939 S Calumet Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.823154,-87.618293,R,96,7/30/2014 9:04
+521273,800040096,Neighborhood Commons Cooperative,1600 N Vine St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.912709,-87.644594,R,80,5/12/2014 9:10
+521280,800211050,Cottage View Terrace Apartment,4829 S Cottage Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.807202,-87.606292,R,40,9/25/2014 10:10
+521282,800212450,Lathrop Elderly,2717 N Leavitt St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.930872,-87.680569,R,80,8/14/2014 9:12
+521287,800216705,Lake Park Crescent Apartments,1061 E 41st Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.819473,-87.600800,R,90,1/22/2015 9:43
+521306,800225499,Hollywood House Apartments,5700 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60660,41.985633,-87.655462,R,52,12/30/2014 9:16
+521339,800234441,1111 North Dearborn,1111 N Dearborn St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.902153,-87.629688,R,61,5/6/2014 9:40
+521340,800234657,450 Melrose,450 W Melrose St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941380,-87.640800,R,28,10/15/2014 10:24
+521341,800234659,536 Addison,536 W Addison St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.948551,-87.644261,R,74,10/9/2014 10:14
+521342,800234683,2630 Hampden,2630 N Hampden Ct,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.929928,-87.641290,R,60,9/3/2014 10:03
+521343,800234684,537 Melrose,537 W Melrose St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941015,-87.642917,R,80,10/3/2014 12:05
+521344,800234693,544 Melrose,544 W Melrose St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941340,-87.643107,R,70,11/4/2014 11:12
+521345,800234708,455 Wellington,455 W Wellington Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.936392,-87.640860,R,76,11/4/2014 14:37
+521346,800234710,3510 Pine Grove,3510 N Pine Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.946291,-87.644767,R,77,10/6/2014 10:28
+521347,800209831,Hearts United,654 E 43rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.816948,-87.609957,R,83,6/23/2014 9:02
+521348,800234919,350 Oakdale Apartments,350 W Oakdale Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.935791,-87.638732,R,67,8/28/2014 10:18
+521351,800220718,Liberty Square Apartments (4th Pre-ap),711 S Independence Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.872206,-87.719474,R,79,8/8/2014 9:00
+521438,800006322,SHERIDAN GUNNISON APARTMENTS,4827 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.969706,-87.654626,R,86,6/6/2014 10:29
+521439,800005791,Chinatown Elderly Apartments,300 W 23rd St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60616,41.851131,-87.634781,R,95,4/16/2014 9:36
+521440,800005815,CONTINENTAL PLAZA APARTMENTS,1330 W 76th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60620,41.756138,-87.657116,R,80,11/17/2014 8:46
+521460,800040042,JORGE HERNANDEZ,1615 N Kildare Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60639,41.910372,-87.733448,R,78,7/10/2014 9:07
+521551,800006278,Ridgeland/Yates,6001 S Vernon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.785561,-87.614231,R,78,2/27/2014 10:43
+522736,800005698,Amalgamated Senior Residences,1504 W Van Buren St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60607,41.876568,-87.664536,R,99,5/20/2014 9:57
+522761,800006195,PALMER SQUARE APARTMENTS,2118 N Kedzie Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.920789,-87.707282,R,94,4/9/2014 10:05
+522765,800006205,THE PINES OF EDGEWATER II,5439 N Kenmore Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.980688,-87.656302,R,46,5/16/2014 10:08
+522788,800006526,65TH STREET APARTMENTS,6400 S Maryland Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.778585,-87.604837,R,69,4/29/2014 10:13
+523062,800233118,1133 North Dearborn,1133 N Dearborn St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.902689,-87.629710,R,42,7/16/2014 9:19
+524130,800006320,SHERIDAN & AINSLIE APARTMENTS,4910 N Sheridan Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.971710,-87.655123,R,54,4/22/2014 10:12
+524832,800005891,Estes Paulina Apartments,7064 N Paulina St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.010874,-87.672524,R,58,9/5/2014 13:52
+524892,800006448,WEST POINT PLAZA,300 S Damen Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60612,41.877360,-87.676830,R,60,9/12/2014 10:07
+524904,800006336,South Chicago YMCA Elderly Housing,3039 E 91st St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60617,41.729926,-87.549613,R,72,8/27/2014 10:09
+525034,800006193,OVER THE RAINBOW UNIT I,754 W Belden Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.923811,-87.648166,R,91,8/15/2014 12:36
+525326,800005794,CIRCLE PARK APTS,1111B S Laflin St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60607,41.868208,-87.664021,4,77,8/12/2014 9:54
+525606,800005686,Asbury Plaza,750 N Dearborn St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60654,41.895932,-87.629982,R,85,9/15/2014 10:07
+525614,800006340,SOUTH OF THE YARDS,1110 W 50th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60609,41.803482,-87.653466,R,65,9/3/2014 10:10
+525756,800005851,Dolnick Center Apartments,6550 N Damen Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60645,42.000739,-87.680436,R,77,10/7/2014 9:41
+525773,800040451,LAKE PARK APTS,4048 S Lake Park Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.821312,-87.601822,R,96,7/17/2014 9:56
+526069,800006187,NORTHWEST TOWER,1170 W Erie St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60642,41.893512,-87.656818,R,91,9/23/2014 10:11
+526132,800005688,ACADEMY SQUARE APTS,318 S Throop St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60607,41.877370,-87.659652,R,94,8/18/2014 10:01
+526145,800006343,Southeast Englewood,7405 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.759816,-87.630288,R,63,9/2/2014 10:19
+526217,800005830,Diversey Square I,3300 W Diversey Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.932173,-87.709873,R,91,9/5/2014 10:09
+526348,800223449,HOLSTENBOND LP/LAWNDALE RESTORATION,10 N Hamlin Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.881129,-87.721041,R,80,8/25/2014 10:02
+526525,800006169,NORTH WASHINGTON PARK ESTATES,4756 S Vincennes Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.808435,-87.614064,R,63,10/14/2014 10:06
+526627,800223450,"LAWNDALE NEW DEVELOPMENT, LLC",3206 W Douglas Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60623,41.863146,-87.705813,R,66,9/8/2014 10:02
+526781,800005723,820 BELLE PLAINE COOPERATIVE,820 W Belle Plaine Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60613,41.957435,-87.650808,R,81,6/19/2014 10:11
+526816,800005856,DREXEL SQUARE,810 E 51st Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.802300,-87.606071,4,91,7/8/2014 10:11
+526894,800005878,EL VALOR,1931 W 19th St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60608,41.855704,-87.674268,R,45,8/15/2014 9:53
+526897,800005888,BETHEL TERRACE,900 W 63rd Pkwy,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.781329,-87.647791,R,95,8/28/2014 10:09
+526958,800006446,Webster House,2150 N Lincoln Park W,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60614,41.921081,-87.636637,R,76,9/2/2014 10:23
+526977,800005692,AINSLIE MANOR APARTMENTS,4878 N Magnolia Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.971090,-87.661317,R,86,9/8/2014 12:19
+530369,800233855,Park Apartments,220 E Garfield Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.794914,-87.620502,R,76,11/12/2014 10:08
+532621,800067910,SACRAMENTO ELDERLY APARTMENTS,2451 N Sacramento Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60647,41.926353,-87.702121,R,72,12/2/2014 13:46
+532631,800067912,St. Edmund's Tower,6141 S Michigan Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.782937,-87.621960,R,63,12/3/2014 10:21
+532640,800067914,FELLOWSHIP MANOR,5031 S Princeton Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60609,41.803113,-87.632976,R,80,1/21/2015 10:01
+532759,800112175,Haven Towers,7947 S South Chicago Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60617,41.750414,-87.583712,R,85,1/6/2015 13:28
+532833,800112360,ADA . MCKINLEY IV,7451 S Eggleston Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.758988,-87.635528,R,88,1/22/2015 12:28
+534543,800005689,ADA S. MCKINLEY GROUP HOMES (Samaritas),9135 S Brandon Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60617,41.729200,-87.546649,R,97,1/9/2015 9:40
+534544,800005800,CLARK STREET APARTMENTS,6610 N Clark St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.001976,-87.672229,R,83,1/15/2015 10:07
+534549,800005946,GREENCASTLE OF KENWOOD,4909 S Cottage Grove Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60615,41.805745,-87.606244,R,63,12/4/2014 9:42
+534557,800006230,Penn House,157 W Division St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60610,41.903716,-87.633851,R,75,1/14/2015 10:18
+534568,800005845,DELIVERANCE MANOR,4201 S Wabash Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60653,41.818347,-87.624448,R,95,1/7/2015 10:24
+534569,800005970,Hayes Manor Apartments,1211 W Marquette Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60636,41.772180,-87.654661,R,99,1/9/2015 10:12
+534572,800005715,Bobby E. Wright Housing Complex,3222 W Maypole Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60624,41.883463,-87.706860,R,98,1/7/2015 9:30
+534581,800006102,THI-7,1541 E Marquette Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.774986,-87.587310,R,100,1/8/2015 8:57
+534585,800005786,CHASE STREET APTS,1401 W Chase Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60626,42.013791,-87.666397,R,83,1/13/2015 9:38
+534588,800005938,GOOD SHEPHERD TOWER,55 E Garfield Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.794228,-87.623159,R,95,1/23/2015 9:54
+534592,800006164,NEW PISGAH HAVEN HOMES,8005 S Racine Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60620,41.748582,-87.653482,R,98,1/6/2015 10:24
+534593,800006397,JACQUELINE TERRACE,719 W Aldine Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60657,41.941692,-87.647661,R,99,1/7/2015 14:14
+534594,800006495,WINWOOD APTS,1406 W Winona St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60640,41.975466,-87.665016,R,92,1/8/2015 10:05
+534596,800006210,Paradise Haven Homes,7111 S Wentworth Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60621,41.765264,-87.629548,R,90,12/11/2014 11:34
+534597,800006291,ROSELAND MANOR,11717 S State St,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60628,41.681349,-87.622556,R,99,1/20/2015 10:02
+534600,800006315,SENATE APTS,5801G N Pulaski Rd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60646,41.986491,-87.728521,4,88,1/8/2015 11:15
+534602,800006415,TRINITY OAKS,6225 S Drexel Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60637,41.781831,-87.604130,R,87,12/10/2014 10:04
+534620,800006386,THE CENTER APARTMENTS.,7521 N Hoyne Ave,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60645,42.018750,-87.682781,R,89,12/9/2014 10:09
+534623,800006470,WESTHAVEN HOMES,850 W Garfield Blvd,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60609,41.794486,-87.646917,R,94,1/21/2015 14:11
+539809,800040225,INDIAN TRAILS APARTMENTS,221 E 121st Pl,Chicago,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",16974,Cook,031,IL,17,60628,41.673323,-87.616389,R,50,1/13/2015 9:28
