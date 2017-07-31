@@ -32,15 +32,7 @@
 
 <section class="page1">
 <p>
- According to Gallup-Healthways, “People who make more money tend to report higher positive emotions.”
- In this project, we compare the <i>happiness</i> rank and score with the median household income
- for every state in the USA. We also consider cost of living in a state and adjust the household income
- to find correlation.
-</p>
-<p>
- We make a chart to show the happiness rank of each state. From the chart, we can observe that Utah,
- Minnesota, North Dakota, Hawaii, and Colorado are the top 5 happiest states.  Arkansas, Mississippi,
- Kentucky, Alabama, and West Virginia are the least happy states.
+Below we see the visualizaion of home inspection score by county in the state of Illinois.
 </p>
 
 </section>
@@ -65,7 +57,7 @@
     var div = d3.select("body").append("div")
             .attr("class", "tooltip")
             .style("opacity", 0);
-    //Load the happiness data
+    //Load the data
     d3.csv("happiness.csv", function(data) {
         //Set input domain for color scale
         color.domain([
@@ -73,7 +65,7 @@
             d3.max(data, function(d) { return d.rank; })
         ]);
         //Load in GeoJSON data
-        d3.json("us-states.json", function(json) {
+        d3.json("mapshaper_illinois.json", function(json) {
             //Merge the ag. data and GeoJSON
             //Loop through once for each ag. data value
             for (var i = 0; i < data.length; i++) {
@@ -83,7 +75,7 @@
                 var dataRank = parseFloat(data[i].rank);
                 var dataScore = parseFloat(data[i].happines_score);
                 // console.log(data[i]);
-                //Find the corresponding state inside the GeoJSON
+                //Find the corresponding county inside the GeoJSON
                 for (var j = 0; j < json.features.length; j++) {
                     var jsonState = json.features[j].properties.name;
                     if (dataState == jsonState) {
@@ -144,7 +136,7 @@
     .shapeHeight(10) // default 15px
     .cells([1,10,20,30,40,52])
     .labelFormat(d3.format("d"))
-    .title("Happiness Rank")
+    .title("Home Inspection Rank")
     .orient('horizontal')
     .scale(linear);
   svg.select(".legendLinear")
@@ -152,13 +144,7 @@
 </script>
 <h3> About the data </h3>
 <p class="page2">
-We obtain the data from <a href="https://wallethub.com/edu/happiest-states/6959/">here</a>.
-WalletHub’s analysts compared the 50 states and the District of Columbi across three
-dimensions: (1) Emotional and Physical Well-Being, (2) Work Environment and (3) Community
-and Environment. They evaluated these categories using 28 relevant metrics where each metric
- was graded on a 100-point scale, with 100 representing maximum happiness. They then
- calculated overall scores for each state using the weighted average across all metrics,
- which we then used to construct our final ranking.
+
 </p>
 
 
