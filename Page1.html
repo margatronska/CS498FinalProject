@@ -58,7 +58,7 @@ Below we see the visualizaion of home inspection score by county in the state of
             .attr("class", "tooltip")
             .style("opacity", 0);
     //Load the data
-    d3.csv("happiness.csv", function(data) {
+    d3.csv("multifamily_physical_inspection_scores_Illinois only.csv", function(data) {
         //Set input domain for color scale
         color.domain([
             d3.min(data, function(d) { return d.rank; }),
