@@ -123,25 +123,6 @@ Below we see the visualizaion of home inspection score by county in the state of
                     });
         });
     });
-    // add legend based on http://d3-legend.susielu.com/
-    var linear = d3.scaleLinear()
-    .domain([1,52])
-    .range(["rgb(0, 255, 0)", "rgb(0, 0, 0)"]);
-  var svg = d3.select("svg");
-  svg.append("g")
-    .attr("class", "legendLinear")
-    .attr("transform", "translate(20,20)");
-  var legendLinear = d3.legendColor()
-    .shapeWidth(40)
-    .shapeHeight(10) // default 15px
-    .cells([1,10,20,30,40,52])
-    .labelFormat(d3.format("d"))
-    .title("Home Inspection Rank")
-    .orient('horizontal')
-    .scale(linear);
-  svg.select(".legendLinear")
-    .call(legendLinear);
-</script>
 <p class="page2">
 
 </p>
