@@ -112,8 +112,8 @@ In this second visualization, we see how the home inspection score rank in just 
                         div	.html( d.properties.name + "</br>" +
                                   "Rank: " + d.properties.value + "</br>"
                             .style("left", (d3.event.pageX) + "px")
-                            .style("top", (d3.event.pageY - 28) + "px");
-                        })
+                            .style("top", (d3.event.pageY - 28) + "px")
+                        });
                     .on("mouseout", function(d) {
                         div.transition()
                             .duration(500)
