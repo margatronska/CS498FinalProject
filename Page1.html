@@ -63,6 +63,11 @@ var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
 var g = svg.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+ var formatScore = d3.score.format("%e %B");
+ var div = d3.select("body").append("div")   
+    .attr("class", "tooltip")               
+    .style("opacity", 0);
+    
 d3.csv("Illinois.csv", function(d) {
   d.score = +d.score;
   return d;
@@ -95,8 +100,21 @@ d3.csv("Illinois.csv", function(d) {
       .attr("y", function(d) { return y(d.score); })
       .attr("width", x.bandwidth())
       .attr("height", function(d) { return height - y(d.score); });
-});
-
+      .on("mouseover", function(d) {      
+            div.transition()        
+                .duration(200)      
+                .style("opacity", .9);      
+            div .html(formatScore(d.score) + "<br/>"  + d.countyname)  
+                .style("left", (d3.event.pageX) + "px")     
+                .style("top", (d3.event.pageY - 28) + "px");    
+            })                  
+        .on("mouseout", function(d) {       
+            div.transition()        
+                .duration(500)      
+                .style("opacity", 0);   
+        });
+    
+    
 </script>
 
 <p class="page2">
