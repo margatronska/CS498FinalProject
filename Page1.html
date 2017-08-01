@@ -95,10 +95,6 @@ d3.csv("Illinois.csv", function(d) {
       .attr("y", function(d) { return y(d.score); })
       .attr("width", x.bandwidth())
       .attr("height", function(d) { return height - y(d.score); });                 
-        .on("mouseout", function(d) {       
-            div.transition()        
-                .duration(500)      
-                .style("opacity", 0);   
         });
     
     
