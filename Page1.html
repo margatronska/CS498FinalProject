@@ -6,26 +6,6 @@
     <link rel="stylesheet" type="text/css" href="starter-template.css">
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
-    <style type="text/css">
-      /* mouse hover, lighten county color */
-      path:hover {
-      	fill-opacity: .6;
-      }
-      /* Style for Custom Tooltip */
-      div.tooltip {
-       	position: absolute;
-      	text-align: center;
-      	width: 100px;
-      	height: 45px;
-      	padding: 2px;
-      	font: 12px sans-serif;
-      	background: white;
-      	border: 0px;
-      	border-radius: 8px;
-      	pointer-events: none;
-      }
-      </style>
-
 </head>
 <body>
 <h1>Page 1 - Home Inspection By County</h1>
@@ -49,8 +29,25 @@ Below we see the visualizaion of home inspection score by county in the state of
 .axis--x path {
   display: none;
 }
-
-</style>
+    <style type="text/css">
+      /* mouse hover, lighten county color */
+      path:hover {
+      	fill-opacity: .6;
+      }
+      /* Style for Custom Tooltip */
+      div.tooltip {
+       	position: absolute;
+      	text-align: center;
+      	width: 100px;
+      	height: 45px;
+      	padding: 2px;
+      	font: 12px sans-serif;
+      	background: white;
+      	border: 0px;
+      	border-radius: 8px;
+      	pointer-events: none;
+      }
+      </style>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
